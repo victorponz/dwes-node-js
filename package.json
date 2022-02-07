@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/victorponz/dwes-node-js#readme",
   "dependencies": {
-    "hapi": "^18.1.0"
+    "hapi": "^18.1.0",
+    "nodemon": "^2.0.15"
   }
 }
